@@ -7,7 +7,7 @@
 </p>
 
 
-[Link to our paper](https://drive.google.com/drive/u/0/folders/1fvrLuW43sVaajCaCQX0uNkdqV2wT0RzY)
+[Link to our paper](https://docs.google.com/document/d/1kbbgibLjU6lWLgdsaq2uBt96OmKQfhxD/edit?usp=sharing&ouid=101910483237673239603&rtpof=true&sd=true)
 
 
 ## Background
