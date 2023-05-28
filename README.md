@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Project for 5561 Computer Vision at University of Minnesota
+  Project for CS5561 Computer Vision at University of Minnesota
 </p>
 
 
